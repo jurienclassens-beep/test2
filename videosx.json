@@ -1,0 +1,42 @@
+[ 
+    {
+        "location": "rivendell",
+        "title": "lotr",
+        "url_4k": "https://motionbgs.com/media/8137/rivendell-the-lord-of-the-rings.3840x2160.mp4"
+    },
+    {
+        "location": "shire",
+        "title": "lotr",
+        "url_4k": "https://motionbgs.com/media/8131/the-shire-lotr.3840x2160.mp4"
+    },
+    {
+        "location": "Harry",
+        "title": "potter",
+        "url_4k": "https://motionbgs.com/media/6765/great-hall-hogwarts.3840x2160.mp4"
+    },
+        {
+        "location": "Harry2",
+        "title": "potter2",
+        "url_4k": "https://motionbgs.com/media/4780/hogwarts-in-moonlight.3840x2160.mp4"
+    },
+    {
+        "location": "Harry3",
+        "title": "potter3",
+        "url_4k": "https://raw.githubusercontent.com/jurienclassens-beep/Test2/refs/heads/main/harry-potter-magic-awakened-live-wallpaper.mp4"
+    },
+      {
+        "location": "Desktophut",
+        "title": "Aurora Lake Campfire",
+        "url_4k": "https://www.desktophut.com/files/ukvnwRBYhG-Wallpaper52Prob4.mp4"
+    },
+       {
+        "location": "Desktophut",
+        "title": "Emerald Grove",
+        "url_4k": "https://raw.githubusercontent.com/jurienclassens-beep/Test2/refs/heads/main/Emerald%20Grove.mp4"
+    },
+    {
+        "location": "Desktophut",
+        "title": "River",
+        "url_4k": "https://raw.githubusercontent.com/jurienclassens-beep/Test2/refs/heads/main/Forest River HD Live Wallpaper (1).mp4"
+    },
+]
